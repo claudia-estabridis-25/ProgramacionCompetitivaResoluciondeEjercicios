@@ -8,7 +8,8 @@ Ahora se le pide a usted indicar el número de asiento en el que terminaría Pip
 La entrada consiste de 3 enteros *n*, *p* y *k*, explicados anteriormente.
 
 ### Constraints
-1 ≤ **n* ≤ 100
+1 ≤ *n* ≤ 100
+
 1 ≤ *p*, *k* ≤ *n*
 
 ### Output Format
