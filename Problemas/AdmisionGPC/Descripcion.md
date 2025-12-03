@@ -2,7 +2,7 @@
 Link a los challenges en HackerRank: https://www.hackerrank.com/contests/gpc23/challenges
 
 ### Problemas:
-* Las fechas
+* Las Fechas
 * Dando vueltas
 * Los Bordes
 * Juegos en turnos
