@@ -1,0 +1,2 @@
+- Ejercicios sueltos de programación competitiva (no de concursos)
+- Algoritmos básicos para recordar cómo hallar ciertas cosas
