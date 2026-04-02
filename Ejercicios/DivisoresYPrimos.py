@@ -13,7 +13,8 @@ for i in range(1, int(n ** 0.5) + 1): # se verifica hasta la raiz(n)
             # para que me dé las parejas de los divisores (así da todos los divisores)
 
 divisores.sort() # para ordenar la lista (menor a mayor)
-print(divisores)
+print(f"Divisores: {divisores}")
+print(f"Cantidad: {len(divisores)}")
 
 # Verificando si es primo
 if len(divisores) == 1:
