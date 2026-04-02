@@ -16,7 +16,9 @@ divisores.sort() # para ordenar la lista (menor a mayor)
 print(divisores)
 
 # Verificando si es primo
-if len(divisores) <= 2:
+if len(divisores) == 1:
+    print(f"N: {n} no es primo ni compuesto")
+elif len(divisores) <= 2:
     print(f"N: {n} es primo")
 else:
     print(f"N: {n} es compuesto")
